@@ -36,7 +36,7 @@ To run the Flask To-Do List App on your local machine, follow these steps:
 
 1. Clone this repository to your local machine: `git clone https://github.com/0x1byte/flasktodoapp.git`
 
-2. Navigate to the project directory: `cd flask-todo-app`
+2. Navigate to the project directory: `cd flasktodoapp`
 
 3. Install the required Python packages using pip: `pip install -r requirements.txt`
 
