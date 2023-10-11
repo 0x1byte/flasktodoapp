@@ -1,5 +1,4 @@
 import sqlite3
-import sqlite3
 from flask import Flask, render_template, request, redirect, url_for
 
 # Create a SQLite database and a 'todos' table
